@@ -12,6 +12,7 @@ steps followed are
 4. add README.md file
 5. add LICENCE file
 6. add gitignore file
-7. add templete.py file
+7. add templete.py (python script)file
+    contain project structure
 8. corrections as needed
 ```
