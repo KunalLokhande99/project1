@@ -12,7 +12,6 @@ steps followed are
 4. add README.md file
 5. add LICENCE file
 6. add gitignore file
-7. add itemplete.py file
-8. create virtual environment 
-9. corrections as needed
+7. add templete.py file
+8. corrections as needed
 ```
